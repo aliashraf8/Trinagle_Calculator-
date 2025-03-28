@@ -1,1 +1,0 @@
-# Trinagle_Calculator-
